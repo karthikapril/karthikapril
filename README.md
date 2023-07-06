@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karthikapril
-- 👀 I’m interested in python programming
-- 🌱 I’m willing to learn ethical hacking
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in python Data Science programming.
+- 🌱 I’m willing to work on multiple Data related projects.
+- 💞️ I’m looking to collaborate on python projects.
 - 📫 Reach me through linkedin * karthikapril *
 
 <!---
